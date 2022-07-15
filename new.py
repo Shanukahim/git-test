@@ -1,1 +1,1 @@
-print("Hello Shanuka");
+print("Tharuka");
